@@ -17,7 +17,6 @@ Para ejecutar los modelos de este repositorio se requiere lo siguiente:
 - **Entorno local** para el modelo de **Reglas**
 - Tener la base de datos de entrada 
 - Verificar y ajustar las rutas de lectura y escritura antes de ejecutar cada notebook
-glas:** abrir el notebook en un entorno local, verificar que todo esté correctamente configurado y ejecutar las celdas en orden.
 
 ## Requisitos específicos por modelo y como ejecutarlos
 
