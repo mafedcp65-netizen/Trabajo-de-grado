@@ -50,5 +50,11 @@ Después de ejecutar la primera celda, **se debe reiniciar la sesión obligatori
 
 Este modelo debe ejecutarse en **local**.
 
+**Configuración necesaria:**  
+- Tener **Python** y **Jupyter Notebook** funcionando en el equipo.  
+- Tener instalados y configurados correctamente **medSpaCy** y **QuickUMLS**.  
+- Verificar que la ruta de **QuickUMLS** esté correctamente definida en el notebook.
+- Ajustar las rutas de entrada y salida antes de la ejecución.  
+
 **Ejecución:**  
-Abrir el notebook del modelo de reglas en el entorno local, verificar que la configuración necesaria esté disponible y ejecutar las celdas en orden.
+Abrir el notebook del modelo de reglas en el entorno local y ejecutar las celdas en orden.
